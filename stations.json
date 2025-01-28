@@ -1,0 +1,491 @@
+{
+    "station": [
+        {
+            "name": "88,3 FM CKIA - Québec",
+            "streamURL": "https://stream2.statsradio.com/8148/stream",
+            "imageURL": "https://ckiafm.org/images/frontend/CKIA-bois.png",
+            "desc": "CKIA-FM",
+            "longDesc": "CKIA-FM est une radio communautaire urbaine et citoyenne qui favorise l'émergence d'une société inclusive, solidaire et progressiste dans la grande région de Québec.",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "89,1 FM CKRL - Québec",
+            "streamURL": "http://stream02.ustream.ca:8000/ckrl128.mp3.m3u",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/c/c7/CKRL_89%2C1_logo.png",
+            "desc": "CKRL-FM",
+            "longDesc": "CKRL est la plus ancienne radio communautaire d'expression francophone. Pionnière dans son domaine, CKRL s'accroche à sa mission pour faire valoir la musique et les citoyens.",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "89,3 FM CISM -  Montréal",
+            "streamURL": "http://stream03.ustream.ca/cism128.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LOGO_CISM.jpg",
+            "desc": "CISM-FM",
+            "longDesc": "CISM-FM (ou Communication Information Sur la Montagne) est la station de radio officielle de l'Université de Montréal. Le mandat de CISM est double : d'une part, agir en tant que tremplin pour les artistes encore inconnus des grands médias; et, de l'autre, être une école pour les voix et talents de demain dans le domaine des communications – le tout, afin de stimuler la diversité et l'innovation.",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "90,3 FM CIQI Rock & Roll - Montmagny",
+            "streamURL": "http://stream.statsradio.com:8044/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/45/CIQI_CiQi90.3fm_logo.jpg",
+            "desc": "CIQI-FM",
+            "longDesc": "CIQI-FM est une station de radio canadienne de langue française située à Montmagny , au Québec. La station a une formule contemporaine pour adultes ",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "91,9 FM BPM Sports - Montréal",
+            "streamURL": "http://icecast-cklx.rncm.ca/cklx.aac?1481257359482.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BPM_Sports_-_Logo.jpg",
+            "desc": "BPM Sports",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "91,9 FM WKND - Québec",
+            "streamURL": "http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/0/0e/Wknd_CJEC_2012_%28logo%29.png",
+            "desc": "WKND 91.9",
+            "longDesc": "WKND 91.9 est une station de radio commerciale appartenant à Leclerc Communication dans la ville de Québec.",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "92,1 FM NRJ - Drummondville",
+            "streamURL": "http://provisioning.streamtheworld.com/pls/CJDMFMAAC.pls",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/f/f7/%C3%89nergie_92.1_logo.png",
+            "desc": "Énergie 92,1",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "92,5 FM The Beat - Montreal",
+            "streamURL": "https://24283.live.streamtheworld.com/CKBEFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/1/15/CKBE_925_TheBeat.png",
+            "desc": "The Beat 92.5",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "92,7 FM CFIM - Cap-aux-Meules",
+            "streamURL": "http://stream02.ustream.ca:8000/cfim128.mp3",
+            "imageURL": "https://cfim.ca/wp-content/uploads/2018/03/logo-cfim-trans-28-mars-2018-IM.png",
+            "desc": "Le Son de la Mer",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "92,7 FM CJSQ Radio Classique - Québec",
+            "streamURL": "https://listen.radioking.com/radio/228241/stream/271804",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/1/16/Radio_Classique_logo.png",
+            "desc": "Radio-Classique",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "93,1 FM CKVM - Ville-Marie",
+            "streamURL": "https://stream2.statsradio.com:8138/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/37/CKVM_FM93%2C1_logo.png",
+            "desc": "CKVM-FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "93,3 FM CJMF - Québec",
+            "streamURL": "https://22223.live.streamtheworld.com/CJMFFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_FM93.jpg",
+            "desc": "FM93",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "93,7 / 98,1 Rythme FM - Sherbrooke / Magog",
+            "streamURL": "https://18123.live.streamtheworld.com/CFGEFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Rythme_93.7_-_98.1.svg/512px-Logo_Rythme_93.7_-_98.1.svg.png",
+            "desc": "Rythme FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "94,3 FM CHYZ - Québec",
+            "streamURL": "http://ecoutez.chyz.ca:8000/mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/CHYZ_Logo.png/640px-CHYZ_Logo.png",
+            "desc": "CHYZ",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "94,5 FM NRJ - Saguenay-Lac-St-Jean",
+            "streamURL": "https://26103.live.streamtheworld.com/CJABFMAAC_SC",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/4/4f/%C3%89nergie_94.5_logo.png",
+            "desc": "Énergie 94,5",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "94,5 FM Radio Gaspésie - Gaspé",
+            "streamURL": "http://stream02.ustream.ca:8000/cjrg128.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/7a/CJRG_RadioGaspesie94%2C5_logo.png",
+            "desc": "Radio Gaspésie",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "97,7 FM CHOM - Montreal",
+            "streamURL": "https://24493.live.streamtheworld.com/CHOMFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Radio_chom977.png",
+            "desc": "CHOM-FM ",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "98,1 FM CHOI Radio X - Québec",
+            "streamURL": "http://icecast-choi.rncm.ca/choi.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/e/ed/CHOI_981_RadioX_Quebec.png",
+            "desc": "CHOI Radio X",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "98,5 Le FM Parlé de Montréal",
+            "streamURL": "https://26343.live.streamtheworld.com/CHMPFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_985_saison_2021.png",
+            "desc": "Le FM Parlé",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "98,9 FM CHIK NRJ - Québec",
+            "streamURL": "https://24443.live.streamtheworld.com/CHIKFM.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/8/8e/%C3%89nergie_98.9_logo.png",
+            "desc": "Énergie 98,9",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "99,3 FM CJAN - Estrie - Bois-Francs",
+            "streamURL": "https://stream2.statsradio.com:8018/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/88/CJAN_99.3FM_logo.png",
+            "desc": "CJAN 99,3",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "100,1 Rythme FM - Mauricie",
+            "streamURL": "https://18073.live.streamtheworld.com/CJEBFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_Rythme_100.1.svg/512px-Logo_Rythme_100.1.svg.png",
+            "desc": "Rythme FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "100,3 FM CJMC - Saint-Anne-des-Monts",
+            "streamURL": "https://centova.radioservers.biz/proxy/cjmcfmj1/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/ce/CJMC_100%2C3bleufm_logo.png",
+            "desc": "Bleu FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "100,9 FM BPM Sports - Québec",
+            "streamURL": "https://stream0.bpmsports.ca/chxx.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BPM_Sports_-_Logo.jpg",
+            "desc": "BPM Sports",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "101,3 / 103,9 CIME FM - St-Jérôme",
+            "streamURL": "https://27053.live.streamtheworld.com/CIMEFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/de/CIME_103.9_101.3_logo.png",
+            "desc": "CIME FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "101,5 FM CIBL - Montréal",
+            "streamURL": "http://stream02.ustream.ca:8000/cibl32.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CIBL_101%2C5_logo.png/800px-CIBL_101%2C5_logo.png",
+            "desc": "CIBL FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "101,9 FM Passion-Rock - Victoriaville",
+            "streamURL": "https://19293.live.streamtheworld.com/CFDA_FM.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/d/d2/LOGO_CFDA.png",
+            "desc": "Passion-Rock",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "102,3 FM NRJ - Mauricie",
+            "streamURL": "https://24413.live.streamtheworld.com/CIGBFMAAC_SC",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/1/1d/%C3%89nergie_102.3_logo.png",
+            "desc": "Énergie 102,3",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "102,7 FM NRJ - Val-d'Or",
+            "streamURL": "https://15053.live.streamtheworld.com/CJMVFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/b/b6/%C3%89nergie_102.7_logo.png",
+            "desc": "Énergie 102,7",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "102,7 FM Rock-Détente - Estrie",
+            "streamURL": "https://26293.live.streamtheworld.com/CITE1FMAAC_SC",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/3/33/102.7_Rouge_logo.png",
+            "desc": "Rouge FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "102,9 FM CFOM - Québec",
+            "streamURL": "https://17993.live.streamtheworld.com/CFOMFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/9/91/Logo_rythme_102%2C9.png",
+            "desc": "Rythme FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "102,9 Rouge FM - Rimouski",
+            "streamURL": "https://24413.live.streamtheworld.com/CJOIFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/4/4c/102.9_Rouge_logo.png",
+            "desc": "Rouge FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "103,3 FM Radio Allumée - Longueuil",
+            "streamURL": "https://fm-1033.streamb.live/SB00151",
+            "imageURL": "https://www.fm1033.ca/wp-content/uploads/2022/10/logo-fm1033.png",
+            "desc": "La radio allumée",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "103,5 FM Cool FM - Beauce",
+            "streamURL": "http://stream.statsradio.com:8040/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/0/0b/Cool_FM_103%2C5_de_Saint-Georges.jpg",
+            "desc": "Cool FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "103,5 FM Radio du Grand Lanaudière",
+            "streamURL": "http://stream.statsradio.com:8024/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/O_103%2C5_logo.png",
+            "desc": "103,5 FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "103,7 FM CFID - Acton Vale",
+            "streamURL": "https://stream03.ustream.ca/cfid128.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/1/1f/CFID_radioacton103.7_logo.png",
+            "desc": "CFID FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "103,7 FM CIEL - Rivière-Du-Loup",
+            "streamURL": "http://stream.statsradio.com:8046/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/CIEL_FM103_logo.png",
+            "desc": "CIEL FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "104,1 Boom FM - Saint-Jean-sur-Richelieu",
+            "streamURL": "https://24453.live.streamtheworld.com/CFZZFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Boom_104.1_logo.png",
+            "desc": "Boom FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "104,7 FM CKOF - Gatineau",
+            "streamURL": "https://18073.live.streamtheworld.com/CKOFFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/d/d7/Logo_1047_2021_color_default.png",
+            "desc": "CKOF FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "104,9 FM M105 - Granby",
+            "streamURL": "http://provisioning.streamtheworld.com/pls/CFXMFMAAC.pls",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_M105.png",
+            "desc": "M105 FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "105,3 Rouge FM - Drummondville",
+            "streamURL": "http://provisioning.streamtheworld.com/pls/CHRDFMAAC.pls",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/105.3_rouge_logo.png/640px-105.3_rouge_logo.png",
+            "desc": "Rouge FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "105,5 FM Passion-Rock - Thetford Mines",
+            "streamURL": "http://stream.statsradio.com:8010/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/5/5e/LOGO_CKLD.png",
+            "desc": "Passion-Rock",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "105,7 Rythme FM - Montréal",
+            "streamURL": "https://19313.live.streamtheworld.com/CFGLFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_rythme_montreal_color_default.svg/512px-Logo_rythme_montreal_color_default.svg.png",
+            "desc": "Rythme FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "106,1 FM NRJ - Estrie",
+            "streamURL": "https://24453.live.streamtheworld.com/CIMOFMAAC_SC",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/c/c0/%C3%89nergie_106.1_logo.png",
+            "desc": "Énergie 106,1",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "106,5 Boom FM - Saint-Hyacinthe",
+            "streamURL": "https://17633.live.streamtheworld.com/CFEIFM.mp3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Boom_106.5_logo.png",
+            "desc": "Boom FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "106,9 CKOB FM - Mauricie",
+            "streamURL": "https://17993.live.streamtheworld.com/CKOBFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_1069_2021_color_default.png",
+            "desc": "CKOB FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "107,1 FM CHNC - New-Carlisle",
+            "streamURL": "https://stream2.statsradio.com:8098/stream",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/CHNC_RadioCHNC_logo.png",
+            "desc": "CHNC FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "107,1 FM CIBM - Rivière-Du-Loup",
+            "streamURL": "http://podcast.servlinks.com:8407/",
+            "imageURL": "https://www.cibm107.com/assets/img/facebook.png",
+            "desc": "CIBM-FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "107,3 Rouge FM - Montréal",
+            "streamURL": "http://17483.live.streamtheworld.com/CITEFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/9/9e/107.3_rouge_logo.png",
+            "desc": "Rouge FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "107,7 FM CKOY - Estrie",
+            "streamURL": "https://27053.live.streamtheworld.com/CKOYFMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_1077_2021_color_default.png",
+            "desc": "CKOY FM",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "730 AM CKAC Radio Circulation - Montréal",
+            "streamURL": "https://18183.live.streamtheworld.com/CKACAMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/9/96/CKAC_730_circulation.gif",
+            "desc": "CKAC",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "800 AM CJAD - Montreal",
+            "streamURL": "https://24153.live.streamtheworld.com/CJADAMAAC.aac",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/fr/5/54/Radio_cjad.png",
+            "desc": "CJAD",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 666
+        },
+        {
+            "name": "Truck Stop Québec",
+            "streamURL": "https://canada1.reliastream.com/proxy/trucksto?mp=/stream",
+            "imageURL": "https://podcasts.truckstopquebec.com/wp-content/uploads/2021/10/TSQ-image.png",
+            "desc": "Truck Stop Québec",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        },
+        {
+            "name": "Radio Québec Country",
+            "streamURL": "https://play.quebec-country.com/",
+            "imageURL": "https://quebec-country.com/images/RQC2017-1.jpg",
+            "desc": "Radio Québec Country",
+            "longDesc": "",
+            "location": "",
+            "codeHTTP": 200
+        }
+    ],
+    "favorites": []
+}
